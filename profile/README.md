@@ -67,8 +67,6 @@ To bridge the technology gap in Nigeria by transitioning the traditional ways of
 
 ## ✍️ Authors <a name = "authors"></a>
 
-## ✍️ Authors <a name = "authors"></a>
-
 - [@GloBeau](https://github.com/GloBeau) - Business Developer & Team Lead
 - [@sammyyOzz](https://github.com/sammyyOzz) - Backend Developer
 - [@Roarnotes](https://github.com/Roarnotes) - Frontend Developer & Dev LEad
