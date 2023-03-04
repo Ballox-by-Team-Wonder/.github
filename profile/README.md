@@ -16,99 +16,60 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
-
 ## 📝 Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [PROBLEM STATEMENT](#getting_started)
+- [POSSIBLE SOLUTIONS](#solution)
+- [DIFFERENT WAYS OF GOING ABOUT THE SOLUTIONS](#differentSolution)
+- [Vision Statement](#vision)
+- [Mission Statement](#mission)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+## 🏁 PROBLEM STATEMENT <a name = "getting_started"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+According to the World Bank, as at 2017, 53.7% of Nigeria’s total population by headcount ratio, lives in multidimensional poverty, whereas, in digital development, only 36% of the population uses the internet as of 2020, with annual GDP per capita growth at 1.2% in 2021. From this stated data, it can be deduced that there is poor access to technology due to the significant ratio of poverty and inequalities in Nigeria, and all these lead to poor economic growth.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+### 🚀 POSSIBLE SOLUTIONS <solution"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+- Custom Web  iOS and Android apps development
+- Full Product and project based management 
+- Application integration maintenance  and testing 
+- Application research  and development consultancy 
+- Blockchain services 
+- Hardware development services 
+- Tech education, events and hackathon management
+- Community projects for social intervention 
 
-### Prerequisites
+### 🚀 DIFFERENT WAYS OF GOING ABOUT THE SOLUTIONS <a name = "differentSolution"></a>
+- Create campaigns for CVR awareness.
+- Organize outreaches to rural areas to enlighten them on the need for participation in government
+- Go to school to educate young adults from SSS 1-3 on their civic rights and obligations.
+- Form a civic club that meets once a week or once in 2 weeks for different activities
+- Organize training sessions to equip young people with the tools and knowledge needed to understand civic rights and obligation.
+- Partner with related organizations to organize physical events for awareness purposes.
+- Charity donations to willing youngsters in collaboration with other bodies for their civic engagements.
+- Organize online meetings with invited guests to enlighten those present on the need for civic engagement.
+- Organize competitions that address peculiar African problems and civic engagements in collaboration with other bodies.
+- Organizing physical seminars to address civic engagement.
+- Create campaigns and/or outreach to address other SDGs.
+- Educate our audience through social media outlets on social and political injustice and how to stop it.
+- Organize talk shows on importance or needs for youth participation in government.
+- TV and/or radio stations evangelism on civic rights and obligation and the likes.
+- Become a civic responsibility consultancy that gives guidance, suggestions and solutions to civic problems
 
-What things you need to install the software and how to install them.
+## 🎈 Vision Statement <a name="vision"></a>
 
-```
-Give examples
-```
+To build a Nigeria without technological limitations
 
-### Installing
+## 🎉 Mission Statement <a name = "mission"></a>
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+To bridge the technology gap in Nigeria by transitioning the traditional ways of doing things or building new solutions.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+## ✍️ Authors <a name = "authors"></a>
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [@GloBeau](https://github.com/GloBeau) - Business Developer & Team Lead
+- [@sammyyOzz](https://github.com/sammyyOzz) - Backend Developer
+- [@Roarnotes](https://github.com/Roarnotes) - Frontend Developer & Dev LEad
+- [@Anthonyslav1](https://github.com/Anthonyslav1) - Blockchain Developer
